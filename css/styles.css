@@ -85,7 +85,10 @@ nav .logo-name{
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.image-section{
+.section-three{
+    background-color: #F4F4FD;
+}
+.picture{
     background-color: #ffffff;
 }
 .text{
