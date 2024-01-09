@@ -1,5 +1,4 @@
 body{
-    font-family: 'Raleway', sans-serif;
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #ffffff;
@@ -92,8 +91,6 @@ nav .logo-name{
     background-color: #ffffff;
 }
 .text{
-    color: #434455;
-    background-color: inherit;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
